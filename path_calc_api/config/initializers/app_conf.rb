@@ -1,1 +1,1 @@
-Rails.application.config.route_api_url = 'http://172.0.0.1:3002/api/v1/routes/new'
+Rails.application.config.route_api_url = 'http://routes:3002/api/v1/routes/new'
